@@ -1,0 +1,12 @@
+Sample_ID	Group	Mouse	Treatment
+WT1	WTC	WT	Placebo
+WT2	WTC	WT	Placebo
+WT3	WTC	WT	Placebo
+WT4	WTC	WT	Placebo
+WT6	WTC	WT	Placebo
+WTL1	WTL	WT	L.reuteri
+WTL2	WTL	WT	L.reuteri
+WTL3	WTL	WT	L.reuteri
+WTL4	WTL	WT	L.reuteri
+WTL5	WTL	WT	L.reuteri
+
