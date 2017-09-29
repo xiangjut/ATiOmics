@@ -19,7 +19,7 @@ Manuals:
 
 
 -----------------------------------------
-* Questions and comments are welcome    *
-* Xiangjun Tian                         *
-* xiangjun.tian@bcm.edu                 *
+* Questions and comments are welcome    
+* Xiangjun Tian                         
+* xiangjun.tian@bcm.edu                 
 -----------------------------------------
