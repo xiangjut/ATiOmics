@@ -1,4 +1,4 @@
-	WT1	WT2	WT3	WT4	WT6	WTL1	WTL2	WTL3	WTL4	WTL5
+	Control1	Control2	Control3	Control4	Control5	Case1	Case2	Case3	Case4	Case5
 Lipid;Lysolipid;1-(1-enyl-oleoyl)-GPE (P-18:1)*	1.018	0.476	0.476	0.476	0.569	0.476	0.59	0.476	0.476	0.6161
 Lipid;Phospholipid Metabolism;1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*	1.7327	1.6758	1.7215	1.5761	1.8315	1.2877	1.7449	1.076	1.4951	1.5161
 Lipid;Plasmalogen;1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*	1.8186	1.342	1.3597	2.0888	1.4443	0.6545	0.8514	0.4785	1.0028	0.8202

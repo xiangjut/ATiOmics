@@ -1,4 +1,4 @@
-Taxon	WT1	WT2	WT3	WT4	WT6	WTL1	WTL2	WTL3	WTL4	WTL5
+Taxon	Control1	Control2	Control3	Control4	Control5	Case1	Case2	Case3	Case4	Case5
 Bacteria;Other;Other;Other;Other;Other	0.210248566	0.141535921	0.232096103	0.172020218	0.325734688	0.287082116	0.000310694	0.22965033	0.000248849	0.009155322
 Bacteria;Actinobacteria;Actinobacteria;Actinomycetales;Corynebacteriaceae;Corynebacterium	0	0	0	0	0	0	0	0	0	0
 Bacteria;Actinobacteria;Actinobacteria;Actinomycetales;Micrococcaceae;Kocuria	0	0	0	0	0	0	0	0	0	0
