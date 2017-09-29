@@ -17,4 +17,9 @@ Manuals:
 3. Upload the data files 
 4. Run the analyses
 
-Questions and comments are welcome to xiangjun.tian@bcm.edu
+
+-----------------------------------------
+* Questions and comments are welcome    *
+* Xiangjun Tian                         *
+* xiangjun.tian@bcm.edu                 *
+-----------------------------------------
