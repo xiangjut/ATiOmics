@@ -3,6 +3,8 @@ Analytical Toolkits for Integrative 'Omics (ATiOmics): Metabolome and Microbiome
 
 https://xiangjut.shinyapps.io/atiomics/
 
+Developed by using Shiny of R studio.
+
 Manuals:
 1. Download the example files: 
 
