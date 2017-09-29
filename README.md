@@ -16,3 +16,5 @@ Manuals:
 2. Click the URL of ATiOmics https://xiangjut.shinyapps.io/atiomics/
 3. Upload the data files 
 4. Run the analyses
+
+Questions and comments are welcome to xiangjun.tian@bcm.edu
