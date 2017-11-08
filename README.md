@@ -5,7 +5,7 @@ https://xiangjut.shinyapps.io/atiomics/
 
 Developed by using Shiny of R studio.
 
-Manuals:
+Tutorial:
 1. Download the example files: 
 
       Sample meta data: meta_data.txt
@@ -18,6 +18,7 @@ Manuals:
 2. Click the URL of ATiOmics https://xiangjut.shinyapps.io/atiomics/
 3. Upload the data files 
 4. Run the analyses
+5. A full tutorial at https://github.com/xiangjut/ATiOmics/wiki/ATiOmics-Tutorial
 
 
 -----------------------------------------
