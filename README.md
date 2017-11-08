@@ -1,9 +1,7 @@
 # ATiOmics
-Analytical Toolkits for Integrative 'Omics (ATiOmics): Metabolome and Microbiome
+Analytical Toolkits for Integrative 'Omics (ATiOmics): Metabolome and Microbiome (https://xiangjut.shinyapps.io/atiomics/)
 
-https://xiangjut.shinyapps.io/atiomics/
-
-Developed by using Shiny of R studio.
+The Analytical Toolkits for Integrative 'Omics (ATiOmics): Metabolome and Microbiome, or ATiOmics-MM, were developed for integrating and analyzing high dimensional microbiome and metabolome data encountered in areas of medicine and biomedical researches. The toolkits include ordination analysis, difference analysis, association analysis and machine learnings.
 
 Tutorial:
 1. Download the example files: 
